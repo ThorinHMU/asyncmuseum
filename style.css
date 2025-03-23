@@ -24,8 +24,20 @@ body{
     text-align: center;
 }
 
-#b #img img{
+#b .img img{
     width: 24%;
+}
+
+#c img{
+    width: 100%;
+}
+
+#d img{
+    width: 100%;
+}
+
+#e img{
+    width: 100%;
 }
 
 #z{
