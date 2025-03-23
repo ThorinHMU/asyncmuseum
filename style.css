@@ -1,0 +1,33 @@
+#a {
+    background-image: url("assets/fond.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Prend toute la hauteur de l'écran */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#a h1, #a h3{
+    background: rgba(255, 255, 255, 0.75);
+}
+
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+
+#b h1{
+    text-align: center;
+}
+
+#b #img img{
+    width: 24%;
+}
+
+#z{
+    background-color: burlywood;
+}
